@@ -1,4 +1,4 @@
-Olá! Eu sou o Lucas Magalhães
+Olá! Eu sou o Lukas Magalhães
 
 📚 Hoje sou Universitário.
 👩‍💻 Análise e Desenvolvimento de Sistemas.
